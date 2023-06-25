@@ -1,0 +1,7 @@
+Employee ID:179
+Employee Name     :SHUBHAM
+Father's Name     :BHARAT BHUSHAN
+Employee Contact  :6261893429
+Email Information :shubhamshivhare531@gmail.com
+Employee position :junior employe
+Employee Salary   :12LPA
